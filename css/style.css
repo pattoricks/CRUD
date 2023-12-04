@@ -1,0 +1,38 @@
+h1, table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'Nova Square', sans-serif;
+    margin-top:2px;
+    margin-bottom:2px;
+}
+
+th, td {
+    border: 2px solid tomato;
+    padding: 8px;
+}
+
+body {
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+a {
+    background-color: tomato;
+    color: white;
+    margin: auto;
+    padding:15px;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius:12px;
+}
+
+.btn {
+    background-color:tomato;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-family: 'Nova Square', sans-serif;
+}
